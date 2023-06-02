@@ -4,39 +4,20 @@
   
     
     <entry>
-      <title>wo</title>
-      <link href="/2023/06/02/wo/"/>
-      <url>/2023/06/02/wo/</url>
+      <title>My First Blog</title>
+      <link href="/2023/06/02/My%20First%20Blog/"/>
+      <url>/2023/06/02/My%20First%20Blog/</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">  <script id="hbeData" type="hbeData" data-hmacdigest="8306674490541677b1243be7be7c56eac0ed519287ed6a1f4664c31fadbf7365">2cf72c783d71a3f51019a3944698541eb5e59d3b4d1409396cf37c29d3ce42680c07532c3e8503a9718a98c8a52a949d07347fbe2b239dff658c609b75b80ef3599c1f44be8af9326dc35650e67920d40521dbfa425ffc87bd6f7e36d5d8afeaa700d26bfc229d518188d25841ce32b272301d734db17fc729fa04192c7eb39b7c729afc28687bc110f9ee5f9c74071115b2565713d2dc7f27a7120320123b1b2e905f1ea37d1311ed45f572235ef9ed03c99f94c01502843083fbf565318df04a7d9d52ca51c45f5b9a0ab0126f9a3218356c1782866cee4532b9f1f07fb2dd</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+        <content type="html"><![CDATA[<p>​用了应该是有三天的时间吧，终于是把整个个人blog建好了，后面只需要再完善一下细节了，还是比较有成就感的。其实很早之前就想要整一个自己的blog，但是一是因为之前没有找到合适的搭建方式，也不知道可以用这样的方式来搭建，所以前几年的几次尝试都无果，二是也没有真正用心来建吧。这次是趁着我现在是一个真正选择的阶段，感觉到了真正的自由，所以想要建立一个这样的平台来记录一下我的整个之后的时间，也想要让别人来见证一下吧。</p><p>​在这里主要是想要记录几个方面，一个是我的赚钱之路，二个是我的日常生活，三是我个人的一些感悟，四是我的学习生活，暂时就定这四个方面吧，也不确定会不会开放这个blog，先就这样吧，今天很开心哈哈哈！</p>]]></content>
       
       
       <categories>
           
-          <category> woke </category>
+          <category> 日常 </category>
           
-          <category> jj </category>
+          <category> 感想 </category>
           
       </categories>
-      
-      
-        <tags>
-            
-            <tag> private </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/05/29/hello-world/"/>
-      <url>/2023/05/29/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
       
       
     </entry>
