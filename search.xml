@@ -4,6 +4,54 @@
   
     
     <entry>
+      <title>Reflection_《日本蜡烛图技术》</title>
+      <link href="/2023/06/09/Reflection-%E3%80%8A%E6%97%A5%E6%9C%AC%E8%9C%A1%E7%83%9B%E5%9B%BE%E6%8A%80%E6%9C%AF%E3%80%8B/"/>
+      <url>/2023/06/09/Reflection-%E3%80%8A%E6%97%A5%E6%9C%AC%E8%9C%A1%E7%83%9B%E5%9B%BE%E6%8A%80%E6%9C%AF%E3%80%8B/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Way to make money </category>
+          
+          <category> Stock </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Stock </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Diary20230609</title>
+      <link href="/2023/06/09/Diary20230609/"/>
+      <url>/2023/06/09/Diary20230609/</url>
+      
+        <content type="html"><![CDATA[<p>今天的状态很不好，是超级不好的那种，来到了六月份就感觉像是受到了诅咒一样，在股票方面不是说买什么跌什么，我趋势都看到了的，大概率都是正确的，但是不知道怎么操作的原因还是什么，买什么跌什么，然后卖出之后的第二天又给我来大上涨，这样的落差真的很让我难以接受，然后就是这一周一直在亏钱，每天成百上千的那种，这周直接是亏损了五个点左右，真的好焦躁啊，我不明白为什么会这样。</p><p>我现在也不知道该干什么了，真的跟傻逼一样这个市场，我简直就是快要疯了！！！</p><p>另外在自媒体上面，虽然我每天都在发视频，但是不论是播放量还是粉丝量都没有任何的涨势，这也让我很崩溃，让我没有动力再继续下去了，我不知道是否该继续坚持，我找不到理由，我想放弃了，要不就找份工作安稳上班吧，然后等着裁员，然后到了三十岁之后又该干什么呢，到后面来还是一事无成，没有钱买房，没有钱买车，没有钱去玩，我真的是焦虑死了，我该怎么办啊！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Daily life </category>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Stock-review230608</title>
       <link href="/2023/06/08/Stock-review230608/"/>
       <url>/2023/06/08/Stock-review230608/</url>
@@ -241,6 +289,19 @@
             <tag> Stock </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Blog Note</title>
+      <link href="/2023/06/02/Blog%20Note/"/>
+      <url>/2023/06/02/Blog%20Note/</url>
+      
+        <content type="html"><![CDATA[<p>1、<strong>重新生成配置文件</strong></p><p>删除 Blog&#x2F;.deploy_git文件夹内的所有文件，并push到Github仓库，完成后你的github.io项目中没有任何文件。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -rf *</span><br><span class="line">git commit -m ‘clean all file’</span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>返回Hexo项目blog的根目录，重新生成文件并部署到Github上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cd ..</span><br><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
       
     </entry>
     
