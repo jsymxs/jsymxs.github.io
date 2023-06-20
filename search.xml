@@ -376,6 +376,19 @@
     
     
     <entry>
+      <title>Blog Note</title>
+      <link href="/2023/06/02/Blog%20Note/"/>
+      <url>/2023/06/02/Blog%20Note/</url>
+      
+        <content type="html"><![CDATA[<p>1、<strong>重新生成配置文件</strong></p><p>删除 Blog&#x2F;.deploy_git文件夹内的所有文件，并push到Github仓库，完成后你的github.io项目中没有任何文件。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -rf *</span><br><span class="line">git commit -m ‘clean all file’</span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>返回Hexo项目blog的根目录，重新生成文件并部署到Github上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cd ..</span><br><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>My First Blog</title>
       <link href="/2023/06/02/My%20First%20Blog/"/>
       <url>/2023/06/02/My%20First%20Blog/</url>
@@ -390,19 +403,6 @@
           <category> Idea </category>
           
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Blog Note</title>
-      <link href="/2023/06/02/Blog%20Note/"/>
-      <url>/2023/06/02/Blog%20Note/</url>
-      
-        <content type="html"><![CDATA[<p>1、<strong>重新生成配置文件</strong></p><p>删除 Blog&#x2F;.deploy_git文件夹内的所有文件，并push到Github仓库，完成后你的github.io项目中没有任何文件。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git rm -rf *</span><br><span class="line">git commit -m ‘clean all file’</span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>返回Hexo项目blog的根目录，重新生成文件并部署到Github上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cd ..</span><br><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
-      
       
       
     </entry>
